@@ -22,10 +22,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: 
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/100457186?s=48&v=4
   name: ExodusDevs
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: [GitHub repository](https://github.com/upptime/upptime). [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: GitHub repository
   navbar:
     - title: Home
       href: /

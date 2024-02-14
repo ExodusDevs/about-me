@@ -1,8 +1,8 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#3f70dc",
   "theme_color": "#333333",
-  "name": "Upptime",
-  "short_name": "Upptime",
+  "name": "ExodusDevs",
+  "short_name": "Exodus",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [

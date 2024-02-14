@@ -23,7 +23,7 @@ status-website:
   #cname: 
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/100457186?s=48&v=4
-  name: ExodusDevs
+  name: ExodusDevs - Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: GitHub repository
   navbar:

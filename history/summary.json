@@ -58,7 +58,7 @@
     "url": "http://62.72.0.225",
     "icon": "https://icons.duckduckgo.com/ip3/62.72.0.225.ico",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-21": 0
+    }
   },
   {
     "name": "IPv6 test",
